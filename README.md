@@ -7,7 +7,7 @@
 
 - 📈 Currently building a social media platform called Boroughs
 
-- ❤️ As of now I'm using React, but I'm always exploring new libraries and frameworks
+- ❤️ In the near future I want to explore Machine Learning and AI
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
@@ -15,8 +15,8 @@
 </p>
 <br></br>
 
-| <a href="https://github.com/DarianC26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DarianC26&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/DarianC26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarianC26&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarianC26&show_icons=true&locale=en" alt="darianc26" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarianC26&show_icons=true&locale=en" alt="darianc26" /></p>
 
 #### Top Repositories
 
