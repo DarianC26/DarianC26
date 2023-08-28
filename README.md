@@ -21,9 +21,9 @@
 #### Top Repositories
 
 
-<a href="https://github.com/DarianC26/github-readme-stats">
+<a href="https://github.com/DarianC26/ImageEditor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarianC26&repo=ImageEditor&theme=buefy" />
 </a>
-<a href="https://github.com/DarianC26/DarianC26.github.io">
+<a href="https://github.com/DarianC26/Boroughs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarianC26&repo=Boroughs&theme=buefy" />
 </a>
