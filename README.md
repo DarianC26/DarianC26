@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Darian Cheung</h1>
-<h3>I'm a junior at Boston University studying Computer Science!</h3>
+<h3>I'm a senior at Boston University studying Computer Science!</h3>
 
 **About me**
 
-- 💼 I am an aspriing Software Engineer and I'm currently very interested in full-stack development
+- 💼 I am an aspiring Software Engineer and I'm currently very interested in full-stack development
 
 - 📈 Currently building a social media platform called Boroughs
 
@@ -11,7 +11,7 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://linkedin.com/in/christopher-min" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christopher-min" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/darian-cheung26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darian-cheung" height="30" width="40" /></a>
 </p>
 <br></br>
 
