@@ -31,7 +31,9 @@
 
 #### Top Repositories
 
-
+<a href="https://github.com/DarianC26/News2Stocks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarianC26&repo=News2Stocks&theme=buefy" />
+</a>
 <a href="https://github.com/DarianC26/ImageEditor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DarianC26&repo=ImageEditor&theme=buefy" />
 </a>
