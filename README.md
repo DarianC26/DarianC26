@@ -3,11 +3,22 @@
 
 **About me**
 
-- 💼 I am an aspiring Software Engineer and I'm currently very interested in full-stack development
+- 🛠 Currently a Full-Stack Engineer Intern at a stealth startup building an app that you can think of as an **Eventbrite** and **Hinge** for real-world connections.
+- 📡 Built a GPT-style tool at the **Federal Reserve Board** for internal AI use when GPT couldn't be adopted.
+- 📈 Working on an ML project that predicts stock movements based on **news sentiment** and **text alignment**.
+- 🎓 Focused on system design, networking, and making things *reliable*.
 
-- 📈 Currently building a social media platform called Boroughs
+---
 
-- ❤️ In the near future I want to explore Machine Learning and AI
+### 🚀 Tech Stack
+
+```txt
+💻 Languages:   JavaScript / TypeScript / Java / Python
+🌐 Frontend:    React Native / Expo / Tailwind CSS
+🛠 Backend:     Node.js / NestJS / Spring Boot / Express
+📦 DBs:         PostgreSQL / MongoDB / Redis
+☁️ Tools:       Docker / Git / Firebase / REST / WebSockets
+```
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
