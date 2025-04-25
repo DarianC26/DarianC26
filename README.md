@@ -13,11 +13,11 @@
 ### 🚀 Tech Stack
 
 ```txt
-💻 Languages:   JavaScript / TypeScript / Java / Python
-🌐 Frontend:    React Native / Expo / Tailwind CSS
-🛠 Backend:     Node.js / NestJS / Spring Boot / Express
-📦 DBs:         PostgreSQL / MongoDB / Redis
-☁️ Tools:       Docker / Git / Firebase / REST / WebSockets
+💻 Main Languages:   JavaScript / TypeScript / Java / Python
+🌐 Frontend:    Next.js / React.js / React Native / Expo / Tailwind CSS
+🛠 Backend:     Node.js / NestJS / Spring Boot / Express / Django / Flask
+📦 DBs:         PostgreSQL / MongoDB / MySQL
+☁️ Tools:       Docker / Git / Firebase / REST / WebSockets / AWS
 ```
 
 <h4 align="left">Connect with me:</h4>
