@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Darian Cheung</h1>
-<h3>I'm a senior at Boston University studying Computer Science!</h3>
+<h3>I'm a CS graduate from Boston University!</h3>
 
 **About me**
 
