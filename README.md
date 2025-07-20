@@ -5,7 +5,7 @@
 
 - 🛠 Currently a Full-Stack Engineer Intern at a stealth startup building an app that you can think of as an **Eventbrite** and **Hinge** for real-world connections.
 - 📡 Built a GPT-style tool at the **Federal Reserve Board** for internal AI use when GPT couldn't be adopted.
-- 📈 Working on an ML project that predicts stock movements based on **news sentiment** and **text alignment**.
+- 📈 Working on an super secret project involving a mobile app and cooking(i will private my repos when i get enough work done heh).
 - 🎓 Focused on system design, networking, and making things *reliable*.
 
 ---
